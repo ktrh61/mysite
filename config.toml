@@ -2,7 +2,6 @@ title = "Notre-Dame de Paris"
 baseURL = "https://ktrh61.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
-themesDir = "../.."
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
